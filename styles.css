@@ -22,3 +22,6 @@ body{
     border-bottom: 5px red solid;
 }
 
+.box-2{
+    list-style-image: url('./images/check.png');
+}
