@@ -3,6 +3,8 @@
 .Navi{
     background-color: rgb(102, 255, 236);
     text-align: right;
+    
+
 }
 
 /*h1 Hello my name is Marno needs to move to center of page 1 commit*/
@@ -30,5 +32,9 @@ body{
 }
 
 .box-3{
-    list-style-image: url('./images/check.png');
+    list-style-image: url('./images/check.png'); 
+}
+
+.box-3 li{
+    border-bottom: dotted 1px #333;
 }
