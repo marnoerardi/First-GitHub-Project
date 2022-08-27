@@ -3,6 +3,8 @@
 body{
     background-color: #f4f4f4;
     color: teal;
+
+    line-height: 1.6em;
 }
 
 .container{
