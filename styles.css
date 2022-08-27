@@ -2,7 +2,10 @@
 
 .Navi{
     background-color: rgb(102, 255, 236);
+    text-align: right;
 }
+
+/*h1 Hello my name is Marno needs to move to center of page 1 commit*/
 
 body{
     background-color: #f4f4f4;
