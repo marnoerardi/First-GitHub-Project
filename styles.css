@@ -26,8 +26,10 @@ body{
 
 .title{
     font-style: oblique;
-    text-decoration: underline dashed rgb(30, 221, 221);
+    font-size: large;
     
+    text-decoration: underline dashed rgb(30, 221, 221);
+
 }
 
 .box-2{
