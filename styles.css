@@ -10,6 +10,8 @@ button:hover{
 }
 
 /*
+Land the job --center
+Bullets to get there. --center
 box-2 add a border-radius 15px 
 */
 .title{
@@ -44,6 +46,7 @@ body{
     border-left: 5px red dotted;
     border-top: 5px red solid;
     border-bottom: 5px red solid;
+    border-radius: 15px;
 }
 
 .box-3{
