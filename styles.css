@@ -10,9 +10,11 @@ button:hover{
 }
 
 /*
-h1 Hello my name is Marno needs to move to center of page 1 commit
 box-2 add a border-radius 15px 
 */
+.title{
+    text-align: center;
+}
 
 body{
     background-color: #f4f4f4;
