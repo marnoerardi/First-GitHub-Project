@@ -11,8 +11,11 @@
     width: 100%;
     height: 105px;
     border: 2px solid black;
+    border-radius: 05px;
 
 }
+
+/*find a way to move the submit button under the border*/
 
 .box3{
     width: 06%;
