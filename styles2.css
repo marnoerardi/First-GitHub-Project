@@ -1,6 +1,6 @@
 
-.container{
-    width: 100%;
+.container {
+    width: 45%;
     height: 200px;
     display: flex;
     justify-content: center;
@@ -8,10 +8,11 @@
     border-radius: 05px;
 }
 
-.box2{
-    width: 100%;
-    
+.box1 {
+}
 
+.box2 {
+    width: 100%;
 }
 
 /*find a way to move the submit button under the border*/
