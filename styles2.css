@@ -1,20 +1,21 @@
 
 .container {
-    width: 45%;
-    height: 200px;
+    width: 35%;
+    height: 210px;
     border: 2px solid black;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    margin-left: 10px;
 }
 
 .box1 {
-    
+    margin-left: 10px;
 }
 
 .box2 {
     width: 100%;
+    
 }
 
 /*find a way to move the submit button under the border*/
