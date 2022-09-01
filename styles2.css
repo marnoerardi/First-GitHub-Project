@@ -1,6 +1,4 @@
-* {
-    box-sizing: border-box;
-}
+
 
 .container {
     width: 35%;
@@ -9,16 +7,11 @@
     border-radius: 15px;
     display: flex;
     flex-direction: column;
+    align-items: center;
     margin-left: 10px;
 }
 
 .box1 {
     margin-left: 10px;
 }
-
-.box2 {
-    width: 100%;
-    margin-left: 10px;
-}
-
 
