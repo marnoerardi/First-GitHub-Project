@@ -1,3 +1,6 @@
+* {
+    box-sizing: border-box;
+}
 
 .container {
     width: 35%;
@@ -15,8 +18,7 @@
 
 .box2 {
     width: 100%;
-    
+    margin-left: 10px;
 }
 
-/*find a way to move the submit button under the border*/
 
