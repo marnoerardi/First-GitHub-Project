@@ -5,7 +5,8 @@
     height: 210px;
     border: 2px solid black;
     border-radius: 15px;
-   
+    display: flex;
+    
 }
 
 .box1 {
