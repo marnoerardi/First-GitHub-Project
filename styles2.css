@@ -3,7 +3,8 @@
 .container {
     width: 35%;
     height: 210px;
-    
+    border: 2px solid black;
+   
 }
 
 .box1 {
