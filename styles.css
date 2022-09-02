@@ -12,7 +12,7 @@ button:hover{
 /*
 Land the job --center
 Bullets to get there. --center
-box-2 add a border-radius 15px 
+ 
 */
 .title {
     text-align: center;
@@ -21,7 +21,6 @@ box-2 add a border-radius 15px
 body {
     background-color: #f4f4f4;
     color: teal;
-
     line-height: 1.6em;
 }
 
