@@ -40,6 +40,7 @@ body {
 .box-2 {
     background-color: #333;
     color: white;
+    border-right: 5px red dotted;
     
 }
 
