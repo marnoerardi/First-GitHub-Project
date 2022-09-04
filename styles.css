@@ -42,6 +42,7 @@ body {
     color: white;
     border-right: 5px red dotted;
     border-left: 5px red dotted;
+    border-top: 5px red solid;
     
 }
 
