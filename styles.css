@@ -43,7 +43,8 @@ body {
     border-right: 5px red dotted;
     border-left: 5px red dotted;
     border-top: 5px red solid;
-    
+    border-bottom: 5px red solid;
+    border-radius: 15px;
 }
 
 .box-3 {
