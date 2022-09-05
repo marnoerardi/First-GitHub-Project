@@ -55,7 +55,7 @@ body {
 }
 
 .box-3 li {
-    border-bottom: dotted 1px #333;
+    border-bottom: dashed 1px #333;
 }
 
 .box-4 {
