@@ -1,4 +1,6 @@
-
+* {
+    background-color: rgb(228, 224, 224);
+}
 
 .container {
     width: 35%;
@@ -14,6 +16,7 @@
 .login__button {
     background-color: aqua;
     border: none;
+
 }
 
 .box1 {
