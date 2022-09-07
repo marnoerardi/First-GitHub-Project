@@ -11,6 +11,11 @@
     margin: auto;
 }
 
+.login__button {
+    background-color: aqua;
+    
+}
+
 .box1 {
     margin-left: 10px;
 }
