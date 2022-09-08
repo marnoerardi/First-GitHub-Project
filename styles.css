@@ -16,6 +16,7 @@ button:hover{
 .title {
     text-align: center;
     font-size: large;
+    text-transform: uppercase;
     
 }
 
