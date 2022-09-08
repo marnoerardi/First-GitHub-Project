@@ -15,6 +15,7 @@ button:hover{
 */
 .title {
     text-align: center;
+    
 }
 
 body {
@@ -28,12 +29,7 @@ body {
     margin: auto;
 }
 
-.title {
-    font-size: large;
-    text-transform: uppercase;
-    text-decoration: underline dashed rgb(30, 221, 221);
 
-}
 
 .box-1 {
     
