@@ -11,7 +11,9 @@ button:hover{
 }
 
 /*
-
+Adjusting colors on page 
+1 they dont go together
+2 they need to be easy on eyes
  
 */
 .title {
@@ -38,7 +40,7 @@ body {
 }
 
 .box-2 {
-    background-color: #333;
+    background-color: rgb(136, 168, 189);
     color: white;
     border-right: 5px red dotted;
     border-left: 5px red dotted;
