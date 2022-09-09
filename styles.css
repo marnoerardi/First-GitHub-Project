@@ -45,7 +45,7 @@ body {
     border-right: 5px rgb(21, 230, 84) dotted;
     border-left: 5px rgb(21, 230, 84) dotted;
     border-top: 5px rgb(21, 230, 84) solid;
-    border-bottom: 5px red solid;
+    border-bottom: 5px rgb(21, 230, 84) solid;
     border-radius: 15px;
 }
 
