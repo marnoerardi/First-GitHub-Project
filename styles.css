@@ -42,7 +42,7 @@ body {
 .box-2 {
     background-color: rgb(136, 168, 189);
     color: white;
-    border-right: 5px red dotted;
+    border-right: 5px rgb(21, 230, 84) dotted;
     border-left: 5px red dotted;
     border-top: 5px red solid;
     border-bottom: 5px red solid;
