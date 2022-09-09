@@ -17,9 +17,7 @@ Adjusting colors on page
  
 */
 .title {
-    text-align: center;
-    font-size: large;
-    text-transform: uppercase;
+    
     text-decoration: underline dashed rgb(30, 221, 221);
 }
 
