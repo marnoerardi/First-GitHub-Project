@@ -14,7 +14,9 @@ button:hover{
 Adjusting colors on page 
 1 they dont go together
 2 they need to be easy on eyes
- 
+
+Find some fonts for the page
+Maybe some coding pictures to add to different sections???
 */
 .title {
     text-align: center;
@@ -67,6 +69,5 @@ body {
 }
 
 .box-6 {
-    margin-left: 15px;
-    font-style: oblique;
+    
 }
