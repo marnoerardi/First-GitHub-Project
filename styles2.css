@@ -13,10 +13,16 @@
     margin: 0 auto;
 }
 
+.login-button__container {
+    display: flex;
+    padding-top: 16px;
+    
+}
+
 .login__button {
     background-color: aqua;
     border: none;
-
+    
 }
 
 .box1 {
