@@ -28,6 +28,10 @@
     color: blueviolet;
 }
 
+.login__button:hover {
+    
+}
+
 .box1 {
     margin-left: 10px;
 }
