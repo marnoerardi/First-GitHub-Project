@@ -48,7 +48,8 @@
 }
 
 .auth__container {
-
+    flex: 1;
+    
 }
 
 .auth__img {
