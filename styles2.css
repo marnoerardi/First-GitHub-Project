@@ -48,10 +48,7 @@
 }
 
 .auth__container {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    padding-top: 16px;
+    
 }
 
 .auth__img {
