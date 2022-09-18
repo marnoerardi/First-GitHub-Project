@@ -10,6 +10,10 @@ button:hover{
     color: white;
 }
 
+.text--blue {
+    color: blue;
+}
+
 /*
 Adjusting colors on page 
 1 they dont go together
