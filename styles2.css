@@ -60,6 +60,7 @@
     display: flex;
     justify-content: center;
     
+    padding-top: 16px;
 }
 
 /* find a way to have Login box float on page*/
