@@ -58,6 +58,7 @@
 .auth__img {
     flex: 1;
     display: flex;
+    justify-content: center;
     
 }
 
