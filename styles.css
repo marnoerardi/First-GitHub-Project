@@ -54,8 +54,8 @@ body {
 }
 
 .img__container {
+    flex: 1;
     
-}
 
 .img {
     width: 100%;
