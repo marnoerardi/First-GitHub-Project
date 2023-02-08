@@ -55,9 +55,6 @@ body {
 
 .img__container {
     
-    display: flex;
-    align-items: center;
-    padding-bottom: 16px;
 }
 
 .img {
