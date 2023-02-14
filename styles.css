@@ -55,6 +55,7 @@ body {
 
 .img__container {
     flex: 1;
+    display: flex;
     
 }
 
