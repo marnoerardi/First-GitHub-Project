@@ -54,10 +54,7 @@ body {
 }
 
 .img__container {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    padding-bottom: 16px;
+    
 }
 
 .img {
